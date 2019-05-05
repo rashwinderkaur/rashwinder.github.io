@@ -41,61 +41,14 @@ To identify the drivers who are breaking the road rules with the help of AI(Arti
 
 **Windows:**
 
-**#** Clone the surround repository.
-
-**#** Install python 3.6.5.
-
-**#** Set path in Environment variables for python 3.6.5.
-
-**#** Type !pip3 install surround in command prompt to install surround in your system.
-
-
-## Conclusion:# Usage
-
-**#** Helping the data scientists in analytics instead of using glue codes for their research.
-
-**#** Easy interaction between several machine learning pipelines.
-
-**#** Provides end-to-end solution instead of providing solution for the models.
-
-##  Current
-Using cloud API for the upcoming training model.
-
-Developing a pipeline for the system using algorithms of machine learning.
-## Switch to another file
-
-All your files are listed in the file explorer. You can switch from one to another by clicking a file in the list.
-
-## Aim
-
-To identify the drivers who are breaking the road rules with the help of AI(Artificial Intelligence).
-**(Note: The system pipeline for this app is strictly under development.)**
-
-
-## Method
-
-**#** Taking the photo of the car on the mobile application
-
-**#** Storing the image for the process.
-
-**#** Sending the notification to the authorities API (note: Check the availability of the access to API)
-
-**#** Integrating with AWS’s recognition API for reading car number plates.
-
-**#** Again notifies the Authorities for the infringement notice.
-
-## Installation guide:
-
-**Windows:**
-
-**#** Clone the surround repository.
-
-**#** Install python 3.6.5.
-
-**#** Set path in Environment variables for python 3.6.5.
-
-**#** Type !pip3 install surround in command prompt to install surround in your system.
-
+**#** 	Install the python 3.7.3 in the system  by following the provided link that is given bel
+**#** 	Pip3 is installed in your system by default when you install Python.
+**#** 	Set paths for both in Environment variables.
+**#** 	Open command prompt.
+**#** 	Type  python  to ensure that python is successfully installed in your system.
+**#** 	Then type exit() to get out from python environment.
+**#**   Then type pip3 install surround.
+**#** 	Surround is installed in system. To ensure type surround –h. It shows all necessary commands of surround.
 
 ## Conclusion:
 
