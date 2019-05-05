@@ -41,14 +41,22 @@ To identify the drivers who are breaking the road rules with the help of AI(Arti
 
 **Windows:**
 
-**#** 	Install the python 3.7.3 in the system  by following the provided link that is given bel
+**#** 	Install the python 3.7.3 in the system.
+
 **#** 	Pip3 is installed in your system by default when you install Python.
+
 **#** 	Set paths for both in Environment variables.
+
 **#** 	Open command prompt.
+
 **#** 	Type  python  to ensure that python is successfully installed in your system.
+
 **#** 	Then type exit() to get out from python environment.
+
 **#**   Then type pip3 install surround.
+
 **#** 	Surround is installed in system. To ensure type surround –h. It shows all necessary commands of surround.
+
 
 ## Conclusion:
 
